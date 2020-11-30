@@ -8,6 +8,7 @@
 ## Instruções para execução do programa
 
 * Abrir o código em um executor de Python Notebooks (https://colab.research.google.com/)
+  * Caso utilizem o Google Colab, faça login com a mesma credencial do último passo e ao invés de importar o arquivo, podem encontrá-lo na pasta de "Compartilhados comigo"
 * Importar o arquivo data_question.json
 * Clicar para executar todo o programa
 * Ao executar a célula de conexão com o BigQuery, será necessário clicar no link que aparecerá no resultado, fazer login e copiar o token de autenticação para inserir na execução do código
